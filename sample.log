@@ -1,0 +1,3 @@
+2023-08-15 13:45:00 checkout 200 120ms user1234 tx5678 Purchased iPhone 13
+2023-08-15 14:01:00 payment 500 300ms user5678 tx9999 Payment failed
+2023-08-15 14:15:30 shipping 200 150ms user9999 tx5555 Shipped to Jakarta
